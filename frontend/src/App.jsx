@@ -4,7 +4,7 @@ import ContactForm from "./components/ContactForm";
 import ContactList from "./components/ContactList";
 import "./index.css";
 
-const API = "https://github.com/anchal-gupta-28/Contact-manager.git";
+const API = "https://contact-manager-dto2.onrender.com/api/contacts";
 
 function App() {
   const [contacts, setContacts] = useState([]);
