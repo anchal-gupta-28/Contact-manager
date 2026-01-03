@@ -4,7 +4,7 @@ import ContactForm from "./components/ContactForm";
 import ContactList from "./components/ContactList";
 import "./index.css";
 
-const API = "http://localhost:5000/api/contacts";
+const API = "https://github.com/anchal-gupta-28/Contact-manager.git";
 
 function App() {
   const [contacts, setContacts] = useState([]);
