@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Environment variables
+.env
+
+# Vite cache
+.vite
+
+# OS files
+.DS_Store

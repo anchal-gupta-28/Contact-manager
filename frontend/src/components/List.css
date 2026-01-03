@@ -1,0 +1,36 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px;
+  border-radius: 14px;
+  border: 1px solid #eee;
+  margin-top: 14px;
+}
+
+.contact h3 {
+  font-size: 18px;
+}
+
+.contact p {
+  margin: 4px 0;
+  color: #555;
+}
+
+.contact span {
+  font-size: 13px;
+  color: #888;
+}
+
+.contact button {
+  background: #ff4d4f;
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.contact button:hover {
+  background: #e04344;
+}

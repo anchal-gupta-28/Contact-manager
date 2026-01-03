@@ -1,0 +1,29 @@
+.app {
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.header {
+  max-width: 1100px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.header h1 {
+  font-size: 32px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.header p {
+  color: #6b7280;
+  margin-top: 4px;
+}
+
+.main {
+  max-width: 1100px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 30px;
+}
